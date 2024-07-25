@@ -4,3 +4,5 @@ gem "github-pages", group: :jekyll_plugins
 gem 'html-proofer'
 
 gem "webrick", "~> 1.7"
+
+gem "json", "~> 2.7"
