@@ -1,5 +1,5 @@
 - abstract_deadline: '2024-08-07'
-  core: null
+  core: A*
   date: 25 February - 04 March, 2025
   deadline: '2024-08-16'
   end: '2025-03-04'
@@ -19,7 +19,7 @@
   title: AAAI 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -60,7 +60,7 @@
   title: BMVC 2025
   year: null
 - abstract_deadline: '2024-09-05'
-  core: null
+  core: A*
   date: 26 April - 01 May, 2025
   deadline: '2024-09-12'
   end: '2025-05-01'
@@ -168,7 +168,7 @@
   title: CIKM 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: B
   date: 19 January - 24 January, 2025
   deadline: '2024-09-17'
   end: '2025-01-24'
@@ -188,7 +188,7 @@
   title: COLING 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A
   date: 27 October - 31 October, 2025
   deadline: '1900-01-01'
   end: '2025-10-31'
@@ -248,7 +248,7 @@
   title: ECIR 2025 [Full Research Paper]
   year: null
 - abstract_deadline: '1900-01-01'
-  core: A
+  core: null
   date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
@@ -288,7 +288,7 @@
   title: ECIR 2025 [IR for Good]
   year: null
 - abstract_deadline: '2024-10-16'
-  core: A
+  core: null
   date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
@@ -328,7 +328,7 @@
   title: ECIR 2025 [Short Paper]
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A*
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -348,7 +348,7 @@
   title: EMNLP 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: B
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -369,7 +369,7 @@
   title: ESWC 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: B
   date: 03 June - 06 June, 2025
   deadline: '1900-01-01'
   end: '2025-06-06'
@@ -391,9 +391,9 @@
   year: null
 - abstract_deadline: '1900-01-01'
   core: A*
-  date: 01 January - 01 January, 1900
+  date: 19 October - 25 October, 2025
   deadline: '1900-01-01'
-  end: '1900-01-01'
+  end: '2025-10-25'
   estimated: true
   full_name: ICCV 2025
   hindex: null
@@ -401,9 +401,9 @@
   link: null
   note: null
   paperslink: null
-  place: null
+  place: Honolulu, HI, USA
   pwclink: null
-  start: '1900-01-01'
+  start: '2025-10-19'
   sub:
   - CV
   timezone: UTC-12
@@ -429,7 +429,7 @@
   title: ICME 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A*
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -488,7 +488,7 @@
   title: ISMIR 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -508,7 +508,7 @@
   title: ISWC 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A*
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -529,7 +529,7 @@
   title: JCDL 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A*
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -549,7 +549,7 @@
   title: KDD 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A
   date: 03 March - 07 March, 2025
   deadline: '2024-09-23'
   end: '2025-03-07'
@@ -671,7 +671,7 @@
   title: NAACL 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A
   date: 22 September - 26 September, 2025
   deadline: '1900-01-01'
   end: '2025-09-26'
@@ -731,7 +731,7 @@
   title: TPDL 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: B
   date: 02 June - 06 June, 2025
   deadline: '1900-01-01'
   end: '2025-06-06'
@@ -752,7 +752,7 @@
   title: UMAP 2025
   year: null
 - abstract_deadline: '1900-01-01'
-  core: null
+  core: A
   date: 02 November - 07 November, 2025
   deadline: '1900-01-01'
   end: '2025-11-07'
