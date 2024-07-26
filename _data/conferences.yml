@@ -1,58 +1,367 @@
-- title: ECIR
-  year: 2025
-  id: ecir25
-  full_name: European Conference on Information Retrieval
-  link: https://ecir2025.eu/
-  deadline: "2024-10-09 23:59:59"
-  abstract_deadline: "2024-10-02 23:59:59"
+- CORE: null
+  abstract_deadline: '2024-08-07'
+  date: 2025-02-25 - 2025-03-04
+  deadline: '2024-08-16'
+  end: '2025-03-04'
+  estimated: true
+  full_name: AAAI 2025
+  hindex: null
+  id: aaai25
+  link: https://aaai.org/conference/aaai/aaai-25/
+  note: null
+  paperslink: null
+  place: Philadelphia, Pennsylvania, USA
+  pwclink: null
+  start: '2025-02-25'
+  sub:
+  - AI
   timezone: UTC-12
-  place: Lucca, Tuscany, Italy
-  date: April 6 - April 10, 2025
-  start: 2025-04-06
-  end: 2025-04-10
-  sub: DM
-  note: Abstract deadline on Oct 2, 2024. More info <a href='https://ecir2025.eu/'>here</a>.
-
-- title: WACV
-  year: 2025
-  id: wacv25_2
-  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
-  link: https://wacv2025.thecvf.com/
-  deadline: "2024-09-09 23:59:59"
-  timezone: UTC-7
-  place: Tucson, Arizona
-  date: Feb 28 – Mar 4, 2025
-  start: 2025-2-28
-  end: 2025-3-4
-  hindex: 109
-  sub: ["ML", "CV"]
-  note: This is the second round of submissions. Summplementary material deadline on Sep 11, 2024. More info <a href='https://wacv2025.thecvf.com/'>here</a>.
-
-- title: COLING
-  year: 2025
+  title: AAAI 2025
+  year: null
+- CORE: null
+  abstract_deadline: '2024-09-05'
+  date: 2025-04-26 - 2025-05-01
+  deadline: '2024-09-12'
+  end: '2025-05-01'
+  estimated: true
+  full_name: CHI 2025 [Full Research Paper]
+  hindex: null
+  id: chi25
+  link: https://chi2025.acm.org/for-authors/papers/
+  note: null
+  paperslink: null
+  place: Yokohama, Japan & Remote
+  pwclink: null
+  start: '2025-04-26'
+  sub:
+  - UI
+  timezone: UTC-12
+  title: CHI 2025 [Full Research Paper]
+  year: null
+- CORE: null
+  abstract_deadline: '2024-10-14'
+  date: 2025-03-24 - 2025-03-27
+  deadline: '2024-10-21'
+  end: '2025-03-27'
+  estimated: true
+  full_name: CHIIR 2025 [Full, Perspective]
+  hindex: null
+  id: chiir25
+  link: https://chiir2025.github.io/cfp.html
+  note: null
+  paperslink: null
+  place: Melbourne, Australia
+  pwclink: null
+  start: '2025-03-24'
+  sub:
+  - UI
+  - IR
+  - EDU
+  timezone: UTC-12
+  title: CHIIR 2025 [Full, Perspective]
+  year: null
+- CORE: null
+  abstract_deadline: null
+  date: 2025-03-24 - 2025-03-27
+  deadline: '2024-10-31'
+  end: '2025-03-27'
+  estimated: true
+  full_name: CHIIR 2025 [Short papers, Demos/Resources, DC]
+  hindex: null
+  id: chiir25-short
+  link: https://chiir2025.github.io/cfp.html
+  note: null
+  paperslink: null
+  place: Melbourne, Australia
+  pwclink: null
+  start: '2025-03-24'
+  sub:
+  - UI
+  - IR
+  timezone: UTC-12
+  title: CHIIR 2025 [Short papers, Demos/Resources, DC]
+  year: null
+- CORE: null
+  abstract_deadline: null
+  date: 2025-03-24 - 2025-03-27
+  deadline: '2024-10-21'
+  end: '2025-03-27'
+  estimated: true
+  full_name: CHIIR 2025 [Tutorials, Workshops]
+  hindex: null
+  id: chiir25-tutorials
+  link: https://chiir2025.github.io/cfp.html
+  note: null
+  paperslink: null
+  place: Melbourne, Australia
+  pwclink: null
+  start: '2025-03-24'
+  sub:
+  - UI
+  - IR
+  - EDU
+  timezone: UTC-12
+  title: CHIIR 2025 [Tutorials, Workshops]
+  year: null
+- CORE: null
+  abstract_deadline: null
+  date: 2025-01-19 - 2025-01-24
+  deadline: '2024-09-17'
+  end: '2025-01-24'
+  estimated: true
+  full_name: COLING 2025
+  hindex: null
   id: coling25
-  full_name: The 31st International Conference on Computational Linguistics
   link: https://coling2025.org/
-  deadline: "2024-09-16 23:59:59"
-  timezone: UTC-12
+  note: null
+  paperslink: null
   place: Abu Dhabi, UAE
-  date: January 19-24, 2025
-  start: 2025-01-19
-  end: 2025-01-24
-  hindex: 73
-  sub: NLP
-  note: More info can be found <a href="https://coling2025.org/calls/main_conference_papers/#important-dates">here</a>.
-
-- title: WSDM
-  year: 2025
-  id: wsdm25
-  full_name: ACM International Conference on Web Search and Data Mining
-  note: Abstract deadline on August 7, 2024
-  link: https://www.wsdm-conference.org/2025/
-  deadline: "2024-08-14 23:59:00"
+  pwclink: null
+  start: '2025-01-19'
+  sub:
+  - NLP
   timezone: UTC-12
-  place: Hannover, Germany
-  date: March 10-14, 2025
-  start: 2025-03-10
-  end: 2025-03-14
-  sub: DM
+  title: COLING 2025
+  year: null
+- CORE: A
+  abstract_deadline: '2024-10-02'
+  date: 2025-04-06 - 2025-04-10
+  deadline: '2024-10-09'
+  end: '2025-04-10'
+  estimated: true
+  full_name: ECIR 2025 [Full Research Paper]
+  hindex: null
+  id: ecir25
+  link: https://ecir2025.eu/call-for-full-papers/
+  note: null
+  paperslink: null
+  place: Lucca, Tuscany
+  pwclink: null
+  start: '2025-04-06'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: ECIR 2025 [Full Research Paper]
+  year: null
+- CORE: A
+  abstract_deadline: null
+  date: 2025-04-06 - 2025-04-10
+  deadline: '2024-10-23'
+  end: '2025-04-10'
+  estimated: true
+  full_name: ECIR 2025 [Demo]
+  hindex: null
+  id: ecir25-demo
+  link: https://ecir2025.eu/call-for-demo-papers/
+  note: null
+  paperslink: null
+  place: Lucca, Tuscany
+  pwclink: null
+  start: '2025-04-06'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: ECIR 2025 [Demo]
+  year: null
+- CORE: null
+  abstract_deadline: '2024-10-30'
+  date: 2025-04-06 - 2025-04-10
+  deadline: '2024-11-06'
+  end: '2025-04-10'
+  estimated: true
+  full_name: ECIR 2025 [IR for Good]
+  hindex: null
+  id: ecir25-irforgood
+  link: https://ecir2025.eu/call-for-ir-for-good-papers/
+  note: null
+  paperslink: null
+  place: Lucca, Tuscany
+  pwclink: null
+  start: '2025-04-06'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: ECIR 2025 [IR for Good]
+  year: null
+- CORE: A
+  abstract_deadline: '2024-10-16'
+  date: 2025-04-06 - 2025-04-10
+  deadline: '2024-10-23'
+  end: '2025-04-10'
+  estimated: true
+  full_name: ECIR 2025 [Reproducibility]
+  hindex: null
+  id: ecir25-reprod
+  link: https://ecir2025.eu/call-for-reproducibility-papers/
+  note: null
+  paperslink: null
+  place: Lucca, Tuscany
+  pwclink: null
+  start: '2025-04-06'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: ECIR 2025 [Reproducibility]
+  year: null
+- CORE: A
+  abstract_deadline: '2024-10-16'
+  date: 2025-04-06 - 2025-04-10
+  deadline: '2024-10-23'
+  end: '2025-04-10'
+  estimated: true
+  full_name: ECIR 2025 [Short Paper]
+  hindex: null
+  id: ecir25-short
+  link: https://ecir2025.eu/call-for-short-papers/
+  note: null
+  paperslink: null
+  place: Lucca, Tuscany
+  pwclink: null
+  start: '2025-04-06'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: ECIR 2025 [Short Paper]
+  year: null
+- CORE: A
+  abstract_deadline: null
+  date: 2025-06-30 - 2025-07-04
+  deadline: '2024-12-13'
+  end: '2025-07-04'
+  estimated: true
+  full_name: ICME 2025
+  hindex: null
+  id: icme25
+  link: https://2025.ieeeicme.org/general-calls/
+  note: null
+  paperslink: null
+  place: Nantes, France
+  pwclink: null
+  start: '2025-06-30'
+  sub: []
+  timezone: UTC-12
+  title: ICME 2025
+  year: null
+- CORE: null
+  abstract_deadline: null
+  date: 2025-03-03 - 2025-03-07
+  deadline: '2024-09-23'
+  end: '2025-03-07'
+  estimated: true
+  full_name: LAK 2025 [Full/Short]
+  hindex: null
+  id: lak25
+  link: https://www.solaresearch.org/events/lak/lak25/general-call/
+  note: null
+  paperslink: null
+  place: Dublin, Ireland
+  pwclink: null
+  start: '2025-03-03'
+  sub:
+  - EDU
+  timezone: UTC-12
+  title: LAK 2025 [Full/Short]
+  year: null
+- CORE: null
+  abstract_deadline: null
+  date: None - None
+  deadline: '2024-11-04'
+  end: null
+  estimated: true
+  full_name: LAK 2025 [Poster/Demo]
+  hindex: null
+  id: lak25-demo
+  link: https://www.solaresearch.org/events/lak/lak25/general-call/
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: null
+  sub:
+  - EDU
+  timezone: UTC-12
+  title: LAK 2025 [Poster/Demo]
+  year: null
+- CORE: A
+  abstract_deadline: null
+  date: 2025-02-28 - 2025-03-04
+  deadline: '2024-07-15'
+  end: '2025-03-04'
+  estimated: true
+  full_name: WACV 2025
+  hindex: null
+  id: wacv25_r1
+  link: https://wacv2025.thecvf.com/submissions/
+  note: null
+  paperslink: null
+  place: Tucson, Arizona
+  pwclink: null
+  start: '2025-02-28'
+  sub:
+  - CV
+  timezone: UTC-12
+  title: WACV 2025
+  year: null
+- CORE: A*
+  abstract_deadline: '2024-08-07'
+  date: 2025-03-10 - 2025-03-14
+  deadline: '2024-08-14'
+  end: '2025-03-14'
+  estimated: true
+  full_name: WSDM 2025 [Full Research Paper]
+  hindex: null
+  id: wsdm25
+  link: https://www.wsdm-conference.org/2025/call-for-papers/
+  note: null
+  paperslink: null
+  place: Hanover, Germany
+  pwclink: null
+  start: '2025-03-10'
+  sub:
+  - WebSc
+  timezone: UTC-12
+  title: WSDM 2025 [Full Research Paper]
+  year: null
+- CORE: null
+  abstract_deadline: null
+  date: 2025-03-10 - None
+  deadline: '2024-10-07'
+  end: null
+  estimated: true
+  full_name: WSDM 2025 [Workshop proposals]
+  hindex: null
+  id: wsdm25-workshops
+  link: https://www.wsdm-conference.org/2025/call-for-workshop-proposals/
+  note: null
+  paperslink: null
+  place: Hanover, Germany
+  pwclink: null
+  start: '2025-03-10'
+  sub:
+  - WebSc
+  timezone: UTC-12
+  title: WSDM 2025 [Workshop proposals]
+  year: null
+- CORE: A*
+  abstract_deadline: '2024-10-03'
+  date: 2025-04-28 - 2025-05-02
+  deadline: '2024-10-10'
+  end: '2025-05-02'
+  estimated: true
+  full_name: WebConf 2025
+  hindex: null
+  id: webconf25
+  link: https://www2025.thewebconf.org/research-tracks
+  note: null
+  paperslink: null
+  place: Sidney, Australia
+  pwclink: null
+  start: '2025-04-28'
+  sub:
+  - WebSc
+  - AI
+  - IR
+  - RS
+  timezone: UTC-12
+  title: WebConf 2025
+  year: null

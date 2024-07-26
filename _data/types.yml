@@ -1,31 +1,58 @@
 ---
-- name: Machine Learning
-  sub: ML
+- name: Artificial Intelligence
+  sub: AI
   color: "#ffd300"
 - name: Computer Vision
   sub: CV
-  color: "#deff0a"
-- name: Computer Graphics
-  sub: CG
-  color: "#0aefff"
-- name: Natural Language Proc
-  sub: NLP
-  color: "#147df5"
-- name: Robotics
-  sub: RO
-  color: "#0aff99"
-- name: Speech/SigProc
-  sub: SP
-  color: "#580aff"
+  color: "#ffd300"
 - name: Data Mining
   sub: DM
-  color: "#be0aff"
-- name: Automated Planning
-  sub: AP
-  color: "#a432a8"
-- name: Knowledge Representation
-  sub: KR
-  color: "#32a855"
-- name: Human-Computer Interaction
-  sub: HCI
-  color: "#a83232"
+  color: "#ffd300"
+- name: Education
+  sub: EDU
+  color: "#ffd300"
+- name: ET
+  sub: ET
+  color: "#ffd300"
+- name: Information Retrieval
+  sub: IR
+  color: "#ffd300"
+- name: Knowledge Management
+  sub: KM
+  color: "#ffd300"
+- name: Library Science
+  sub: LibSci
+  color: "#ffd300"
+- name: Multimedia
+  sub: MM
+  color: "#ffd300"
+- name: Multimedia Retrieval
+  sub: MMR
+  color: "#ffd300"
+- name: NLP
+  sub: NLP
+  color: "#ffd300"
+- name: RecSys
+  sub: RecSys
+  color: "#ffd300"
+- name: SemWeb
+  sub: SemWeb
+  color: "#ffd300"
+- name: UI
+  sub: UI
+  color: "#ffd300"
+- name: UM
+  sub: UM
+  color: "#ffd300"
+- name: WebSc
+  sub: WebSc
+  color: "#ffd300"
+- name: Vis
+  sub: Vis
+  color: "#ffd300"
+- name: RS
+  sub: RS
+  color: "#ffd300"
+- name: SW
+  sub: SW
+  color: "#ffd300"
