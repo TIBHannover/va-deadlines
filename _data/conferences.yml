@@ -1,6 +1,6 @@
 - CORE: null
   abstract_deadline: '2024-08-07'
-  date: 2025-02-25 - 2025-03-04
+  date: 25 February - 04 March, 2025
   deadline: '2024-08-16'
   end: '2025-03-04'
   estimated: true
@@ -19,8 +19,49 @@
   title: AAAI 2025
   year: null
 - CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: AIED 2025
+  hindex: null
+  id: aied25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - EDU
+  - AI
+  timezone: UTC-12
+  title: AIED 2025
+  year: null
+- CORE: A
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: BMVC 2025
+  hindex: null
+  id: bmvc25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - CV
+  timezone: UTC-12
+  title: BMVC 2025
+  year: null
+- CORE: null
   abstract_deadline: '2024-09-05'
-  date: 2025-04-26 - 2025-05-01
+  date: 26 April - 01 May, 2025
   deadline: '2024-09-12'
   end: '2025-05-01'
   estimated: true
@@ -40,7 +81,7 @@
   year: null
 - CORE: null
   abstract_deadline: '2024-10-14'
-  date: 2025-03-24 - 2025-03-27
+  date: 24 March - 27 March, 2025
   deadline: '2024-10-21'
   end: '2025-03-27'
   estimated: true
@@ -61,8 +102,8 @@
   title: CHIIR 2025 [Full, Perspective]
   year: null
 - CORE: null
-  abstract_deadline: null
-  date: 2025-03-24 - 2025-03-27
+  abstract_deadline: '1900-01-01'
+  date: 24 March - 27 March, 2025
   deadline: '2024-10-31'
   end: '2025-03-27'
   estimated: true
@@ -82,8 +123,8 @@
   title: CHIIR 2025 [Short papers, Demos/Resources, DC]
   year: null
 - CORE: null
-  abstract_deadline: null
-  date: 2025-03-24 - 2025-03-27
+  abstract_deadline: '1900-01-01'
+  date: 24 March - 27 March, 2025
   deadline: '2024-10-21'
   end: '2025-03-27'
   estimated: true
@@ -103,9 +144,32 @@
   timezone: UTC-12
   title: CHIIR 2025 [Tutorials, Workshops]
   year: null
+- CORE: A
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: CIKM 2025
+  hindex: null
+  id: cikm25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - KM
+  - SW
+  - AI
+  - EDU
+  timezone: UTC-12
+  title: CIKM 2025
+  year: null
 - CORE: null
-  abstract_deadline: null
-  date: 2025-01-19 - 2025-01-24
+  abstract_deadline: '1900-01-01'
+  date: 19 January - 24 January, 2025
   deadline: '2024-09-17'
   end: '2025-01-24'
   estimated: true
@@ -123,9 +187,49 @@
   timezone: UTC-12
   title: COLING 2025
   year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 27 October - 31 October, 2025
+  deadline: '1900-01-01'
+  end: '2025-10-31'
+  estimated: true
+  full_name: ECAI 2025
+  hindex: null
+  id: ecai25
+  link: https://ecai2025.org/
+  note: null
+  paperslink: null
+  place: Bologna, Italy
+  pwclink: null
+  start: '2025-10-27'
+  sub:
+  - AI
+  timezone: UTC-12
+  title: ECAI 2025
+  year: null
+- CORE: A*
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ECCV 2025
+  hindex: null
+  id: eccv25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - CV
+  timezone: UTC-12
+  title: ECCV 2025
+  year: null
 - CORE: A
   abstract_deadline: '2024-10-02'
-  date: 2025-04-06 - 2025-04-10
+  date: 06 April - 10 April, 2025
   deadline: '2024-10-09'
   end: '2025-04-10'
   estimated: true
@@ -144,8 +248,8 @@
   title: ECIR 2025 [Full Research Paper]
   year: null
 - CORE: A
-  abstract_deadline: null
-  date: 2025-04-06 - 2025-04-10
+  abstract_deadline: '1900-01-01'
+  date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
   estimated: true
@@ -165,7 +269,7 @@
   year: null
 - CORE: null
   abstract_deadline: '2024-10-30'
-  date: 2025-04-06 - 2025-04-10
+  date: 06 April - 10 April, 2025
   deadline: '2024-11-06'
   end: '2025-04-10'
   estimated: true
@@ -185,7 +289,7 @@
   year: null
 - CORE: A
   abstract_deadline: '2024-10-16'
-  date: 2025-04-06 - 2025-04-10
+  date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
   estimated: true
@@ -205,7 +309,7 @@
   year: null
 - CORE: A
   abstract_deadline: '2024-10-16'
-  date: 2025-04-06 - 2025-04-10
+  date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
   estimated: true
@@ -223,9 +327,91 @@
   timezone: UTC-12
   title: ECIR 2025 [Short Paper]
   year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: EMNLP 2025
+  hindex: null
+  id: emnlp25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - NLP
+  timezone: UTC-12
+  title: EMNLP 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ESWC 2025
+  hindex: null
+  id: eswc25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - SemWeb
+  - AI
+  timezone: UTC-12
+  title: ESWC 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 03 June - 06 June, 2025
+  deadline: '1900-01-01'
+  end: '2025-06-06'
+  estimated: true
+  full_name: ETRA 2025
+  hindex: null
+  id: etra25
+  link: https://etra.acm.org/2025/
+  note: null
+  paperslink: null
+  place: Tokyo, Japan
+  pwclink: null
+  start: '2025-06-03'
+  sub:
+  - ET
+  - UM
+  timezone: UTC-12
+  title: ETRA 2025
+  year: null
+- CORE: A*
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ICCV 2025
+  hindex: null
+  id: iccv25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - CV
+  timezone: UTC-12
+  title: ICCV 2025
+  year: null
 - CORE: A
-  abstract_deadline: null
-  date: 2025-06-30 - 2025-07-04
+  abstract_deadline: '1900-01-01'
+  date: 30 June - 04 July, 2025
   deadline: '2024-12-13'
   end: '2025-07-04'
   estimated: true
@@ -243,8 +429,128 @@
   title: ICME 2025
   year: null
 - CORE: null
-  abstract_deadline: null
-  date: 2025-03-03 - 2025-03-07
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ICML 2025
+  hindex: null
+  id: icml25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub: []
+  timezone: UTC-12
+  title: ICML 2025
+  year: null
+- CORE: B
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ICMR 2025
+  hindex: null
+  id: icmr25
+  link: null
+  note: null
+  paperslink: null
+  place: Chicago, USA
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - MMR
+  timezone: UTC-12
+  title: ICMR 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ISMIR 2025
+  hindex: null
+  id: ismir25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: ISMIR 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: ISWC 2025
+  hindex: null
+  id: iswc25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - SemWeb
+  timezone: UTC-12
+  title: ISWC 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: JCDL 2025
+  hindex: null
+  id: jcdl25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - LibSci
+  - IR
+  timezone: UTC-12
+  title: JCDL 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: KDD 2025
+  hindex: null
+  id: kdd25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - DM
+  timezone: UTC-12
+  title: KDD 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 03 March - 07 March, 2025
   deadline: '2024-09-23'
   end: '2025-03-07'
   estimated: true
@@ -263,10 +569,10 @@
   title: LAK 2025 [Full/Short]
   year: null
 - CORE: null
-  abstract_deadline: null
-  date: None - None
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
   deadline: '2024-11-04'
-  end: null
+  end: '1900-01-01'
   estimated: true
   full_name: LAK 2025 [Poster/Demo]
   hindex: null
@@ -276,15 +582,198 @@
   paperslink: null
   place: null
   pwclink: null
-  start: null
+  start: '1900-01-01'
   sub:
   - EDU
   timezone: UTC-12
   title: LAK 2025 [Poster/Demo]
   year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: Learning @ Scale
+  hindex: null
+  id: latscale25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - EDU
+  - DM
+  timezone: UTC-12
+  title: Learning @ Scale
+  year: null
+- CORE: A*
+  abstract_deadline: '1900-01-01'
+  date: 27 October - 31 October, 2025
+  deadline: '1900-01-01'
+  end: '2025-10-31'
+  estimated: true
+  full_name: ACMMM 2025
+  hindex: null
+  id: mm25
+  link: null
+  note: null
+  paperslink: null
+  place: Dublin, Ireland
+  pwclink: null
+  start: '2025-10-27'
+  sub:
+  - MM
+  - MMR
+  timezone: UTC-12
+  title: ACMMM 2025
+  year: null
+- CORE: B
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: MMM 2025
+  hindex: null
+  id: mmm25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - MM
+  timezone: UTC-12
+  title: MMM 2025
+  year: null
 - CORE: A
-  abstract_deadline: null
-  date: 2025-02-28 - 2025-03-04
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: NAACL 2025
+  hindex: null
+  id: naacl25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - NLP
+  timezone: UTC-12
+  title: NAACL 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 22 September - 26 September, 2025
+  deadline: '1900-01-01'
+  end: '2025-09-26'
+  estimated: true
+  full_name: RecSys 2025
+  hindex: null
+  id: recsys25
+  link: null
+  note: null
+  paperslink: null
+  place: Prague, Czech Republic
+  pwclink: null
+  start: '2025-09-22'
+  sub:
+  - RecSys
+  timezone: UTC-12
+  title: RecSys 2025
+  year: null
+- CORE: A*
+  abstract_deadline: '1900-01-01'
+  date: 13 July - 18 July, 2025
+  deadline: '1900-01-01'
+  end: '2025-07-18'
+  estimated: true
+  full_name: SIGIR 2025
+  hindex: null
+  id: sigir25
+  link: null
+  note: null
+  paperslink: null
+  place: Padua, Italy
+  pwclink: null
+  start: '2025-07-13'
+  sub:
+  - IR
+  timezone: UTC-12
+  title: SIGIR 2025
+  year: null
+- CORE: B
+  abstract_deadline: '1900-01-01'
+  date: 01 January - 01 January, 1900
+  deadline: '1900-01-01'
+  end: '1900-01-01'
+  estimated: true
+  full_name: TPDL 2025
+  hindex: null
+  id: tpdl25
+  link: null
+  note: null
+  paperslink: null
+  place: null
+  pwclink: null
+  start: '1900-01-01'
+  sub:
+  - LibSci
+  timezone: UTC-12
+  title: TPDL 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 02 June - 06 June, 2025
+  deadline: '1900-01-01'
+  end: '2025-06-06'
+  estimated: true
+  full_name: UMAP 2025
+  hindex: null
+  id: umap25
+  link: https://www.um.org/umap2025/
+  note: null
+  paperslink: null
+  place: New York City, USA
+  pwclink: null
+  start: '2025-06-02'
+  sub:
+  - UM
+  - RS
+  timezone: UTC-12
+  title: UMAP 2025
+  year: null
+- CORE: null
+  abstract_deadline: '1900-01-01'
+  date: 02 November - 07 November, 2025
+  deadline: '1900-01-01'
+  end: '2025-11-07'
+  estimated: true
+  full_name: VIS 2025
+  hindex: null
+  id: vis25
+  link: null
+  note: null
+  paperslink: null
+  place: Vienna, Austria
+  pwclink: null
+  start: '2025-11-02'
+  sub:
+  - Vis
+  timezone: UTC-12
+  title: VIS 2025
+  year: null
+- CORE: A
+  abstract_deadline: '1900-01-01'
+  date: 28 February - 04 March, 2025
   deadline: '2024-07-15'
   end: '2025-03-04'
   estimated: true
@@ -304,7 +793,7 @@
   year: null
 - CORE: A*
   abstract_deadline: '2024-08-07'
-  date: 2025-03-10 - 2025-03-14
+  date: 10 March - 14 March, 2025
   deadline: '2024-08-14'
   end: '2025-03-14'
   estimated: true
@@ -323,10 +812,10 @@
   title: WSDM 2025 [Full Research Paper]
   year: null
 - CORE: null
-  abstract_deadline: null
-  date: 2025-03-10 - None
+  abstract_deadline: '1900-01-01'
+  date: 10 March - 01 January, 1900
   deadline: '2024-10-07'
-  end: null
+  end: '1900-01-01'
   estimated: true
   full_name: WSDM 2025 [Workshop proposals]
   hindex: null
@@ -344,7 +833,7 @@
   year: null
 - CORE: A*
   abstract_deadline: '2024-10-03'
-  date: 2025-04-28 - 2025-05-02
+  date: 28 April - 02 May, 2025
   deadline: '2024-10-10'
   end: '2025-05-02'
   estimated: true

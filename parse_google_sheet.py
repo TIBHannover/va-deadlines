@@ -99,15 +99,12 @@ def export_to_yml(filepath):
         # Validate dates
         dates = {}
         for datekey in ["DL", "DL Abstract", "Conf start", "Conf end"]:
-            if isinstance(row[datekey], str):
-                dates[datekey] = datetime.strptime(row[datekey], "%d.%m.%Y").strftime(
-                    "%Y-%m-%d"
-                )
+            if not isinstance(row[datekey], str):
+                date = "01.01.1900"  # invalid data set to Jan 1, 1900
             else:
-                dates[datekey] = None
+                date = row[datekey]
 
-        if not dates["DL"]:
-            continue
+            dates[datekey] = datetime.strptime(date, "%d.%m.%Y")
 
         # create tags
         subs = []
@@ -126,14 +123,16 @@ def export_to_yml(filepath):
                 "id": row["id"],
                 "full_name": row["Conference"] + track,
                 "link": row["Call"],
-                "deadline": dates["DL"],
-                "abstract_deadline": dates["DL Abstract"],
+                "deadline": dates["DL"].strftime("%Y-%m-%d"),
+                "abstract_deadline": dates["DL Abstract"].strftime("%Y-%m-%d"),
                 "timezone": "UTC-12",
                 "estimated": estimated,
                 "place": row["Location"],
-                "date": f"{dates['Conf start']} - {dates['Conf end']}",
-                "start": dates["Conf start"],
-                "end": dates["Conf end"],
+                "date": f"{dates['Conf start'].strftime("%d %B")} - {dates['Conf end'].strftime(
+                    "%d %B, %Y"
+                )}",
+                "start": dates["Conf start"].strftime("%Y-%m-%d"),
+                "end": dates["Conf end"].strftime("%Y-%m-%d"),
                 "paperslink": None,
                 "pwclink": None,
                 "hindex": None,
