@@ -1,5 +1,5 @@
-- CORE: null
-  abstract_deadline: '2024-08-07'
+- abstract_deadline: '2024-08-07'
+  core: null
   date: 25 February - 04 March, 2025
   deadline: '2024-08-16'
   end: '2025-03-04'
@@ -18,8 +18,8 @@
   timezone: UTC-12
   title: AAAI 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -39,8 +39,8 @@
   timezone: UTC-12
   title: AIED 2025
   year: null
-- CORE: A
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -59,8 +59,8 @@
   timezone: UTC-12
   title: BMVC 2025
   year: null
-- CORE: null
-  abstract_deadline: '2024-09-05'
+- abstract_deadline: '2024-09-05'
+  core: null
   date: 26 April - 01 May, 2025
   deadline: '2024-09-12'
   end: '2025-05-01'
@@ -79,8 +79,8 @@
   timezone: UTC-12
   title: CHI 2025 [Full Research Paper]
   year: null
-- CORE: null
-  abstract_deadline: '2024-10-14'
+- abstract_deadline: '2024-10-14'
+  core: null
   date: 24 March - 27 March, 2025
   deadline: '2024-10-21'
   end: '2025-03-27'
@@ -101,8 +101,8 @@
   timezone: UTC-12
   title: CHIIR 2025 [Full, Perspective]
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 24 March - 27 March, 2025
   deadline: '2024-10-31'
   end: '2025-03-27'
@@ -122,8 +122,8 @@
   timezone: UTC-12
   title: CHIIR 2025 [Short papers, Demos/Resources, DC]
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 24 March - 27 March, 2025
   deadline: '2024-10-21'
   end: '2025-03-27'
@@ -144,8 +144,8 @@
   timezone: UTC-12
   title: CHIIR 2025 [Tutorials, Workshops]
   year: null
-- CORE: A
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -167,8 +167,8 @@
   timezone: UTC-12
   title: CIKM 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 19 January - 24 January, 2025
   deadline: '2024-09-17'
   end: '2025-01-24'
@@ -187,8 +187,8 @@
   timezone: UTC-12
   title: COLING 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 27 October - 31 October, 2025
   deadline: '1900-01-01'
   end: '2025-10-31'
@@ -207,8 +207,8 @@
   timezone: UTC-12
   title: ECAI 2025
   year: null
-- CORE: A*
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A*
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -227,8 +227,8 @@
   timezone: UTC-12
   title: ECCV 2025
   year: null
-- CORE: A
-  abstract_deadline: '2024-10-02'
+- abstract_deadline: '2024-10-02'
+  core: A
   date: 06 April - 10 April, 2025
   deadline: '2024-10-09'
   end: '2025-04-10'
@@ -247,8 +247,8 @@
   timezone: UTC-12
   title: ECIR 2025 [Full Research Paper]
   year: null
-- CORE: A
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A
   date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
@@ -267,8 +267,8 @@
   timezone: UTC-12
   title: ECIR 2025 [Demo]
   year: null
-- CORE: null
-  abstract_deadline: '2024-10-30'
+- abstract_deadline: '2024-10-30'
+  core: null
   date: 06 April - 10 April, 2025
   deadline: '2024-11-06'
   end: '2025-04-10'
@@ -287,8 +287,8 @@
   timezone: UTC-12
   title: ECIR 2025 [IR for Good]
   year: null
-- CORE: A
-  abstract_deadline: '2024-10-16'
+- abstract_deadline: '2024-10-16'
+  core: A
   date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
@@ -307,8 +307,8 @@
   timezone: UTC-12
   title: ECIR 2025 [Reproducibility]
   year: null
-- CORE: A
-  abstract_deadline: '2024-10-16'
+- abstract_deadline: '2024-10-16'
+  core: A
   date: 06 April - 10 April, 2025
   deadline: '2024-10-23'
   end: '2025-04-10'
@@ -327,8 +327,8 @@
   timezone: UTC-12
   title: ECIR 2025 [Short Paper]
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -347,8 +347,8 @@
   timezone: UTC-12
   title: EMNLP 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -368,8 +368,8 @@
   timezone: UTC-12
   title: ESWC 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 03 June - 06 June, 2025
   deadline: '1900-01-01'
   end: '2025-06-06'
@@ -389,8 +389,8 @@
   timezone: UTC-12
   title: ETRA 2025
   year: null
-- CORE: A*
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A*
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -409,8 +409,8 @@
   timezone: UTC-12
   title: ICCV 2025
   year: null
-- CORE: A
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A
   date: 30 June - 04 July, 2025
   deadline: '2024-12-13'
   end: '2025-07-04'
@@ -428,8 +428,8 @@
   timezone: UTC-12
   title: ICME 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -447,8 +447,8 @@
   timezone: UTC-12
   title: ICML 2025
   year: null
-- CORE: B
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: B
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -467,8 +467,8 @@
   timezone: UTC-12
   title: ICMR 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -487,8 +487,8 @@
   timezone: UTC-12
   title: ISMIR 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -507,8 +507,8 @@
   timezone: UTC-12
   title: ISWC 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -528,8 +528,8 @@
   timezone: UTC-12
   title: JCDL 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -548,8 +548,8 @@
   timezone: UTC-12
   title: KDD 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 03 March - 07 March, 2025
   deadline: '2024-09-23'
   end: '2025-03-07'
@@ -568,8 +568,8 @@
   timezone: UTC-12
   title: LAK 2025 [Full/Short]
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '2024-11-04'
   end: '1900-01-01'
@@ -588,8 +588,8 @@
   timezone: UTC-12
   title: LAK 2025 [Poster/Demo]
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -609,8 +609,8 @@
   timezone: UTC-12
   title: Learning @ Scale
   year: null
-- CORE: A*
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A*
   date: 27 October - 31 October, 2025
   deadline: '1900-01-01'
   end: '2025-10-31'
@@ -630,8 +630,8 @@
   timezone: UTC-12
   title: ACMMM 2025
   year: null
-- CORE: B
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: B
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -650,8 +650,8 @@
   timezone: UTC-12
   title: MMM 2025
   year: null
-- CORE: A
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -670,8 +670,8 @@
   timezone: UTC-12
   title: NAACL 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 22 September - 26 September, 2025
   deadline: '1900-01-01'
   end: '2025-09-26'
@@ -690,8 +690,8 @@
   timezone: UTC-12
   title: RecSys 2025
   year: null
-- CORE: A*
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A*
   date: 13 July - 18 July, 2025
   deadline: '1900-01-01'
   end: '2025-07-18'
@@ -710,8 +710,8 @@
   timezone: UTC-12
   title: SIGIR 2025
   year: null
-- CORE: B
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: B
   date: 01 January - 01 January, 1900
   deadline: '1900-01-01'
   end: '1900-01-01'
@@ -730,8 +730,8 @@
   timezone: UTC-12
   title: TPDL 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 02 June - 06 June, 2025
   deadline: '1900-01-01'
   end: '2025-06-06'
@@ -751,8 +751,8 @@
   timezone: UTC-12
   title: UMAP 2025
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 02 November - 07 November, 2025
   deadline: '1900-01-01'
   end: '2025-11-07'
@@ -771,8 +771,8 @@
   timezone: UTC-12
   title: VIS 2025
   year: null
-- CORE: A
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: A
   date: 28 February - 04 March, 2025
   deadline: '2024-07-15'
   end: '2025-03-04'
@@ -791,8 +791,8 @@
   timezone: UTC-12
   title: WACV 2025
   year: null
-- CORE: A*
-  abstract_deadline: '2024-08-07'
+- abstract_deadline: '2024-08-07'
+  core: A*
   date: 10 March - 14 March, 2025
   deadline: '2024-08-14'
   end: '2025-03-14'
@@ -811,8 +811,8 @@
   timezone: UTC-12
   title: WSDM 2025 [Full Research Paper]
   year: null
-- CORE: null
-  abstract_deadline: '1900-01-01'
+- abstract_deadline: '1900-01-01'
+  core: null
   date: 10 March - 01 January, 1900
   deadline: '2024-10-07'
   end: '1900-01-01'
@@ -831,8 +831,8 @@
   timezone: UTC-12
   title: WSDM 2025 [Workshop proposals]
   year: null
-- CORE: A*
-  abstract_deadline: '2024-10-03'
+- abstract_deadline: '2024-10-03'
+  core: A*
   date: 28 April - 02 May, 2025
   deadline: '2024-10-10'
   end: '2025-05-02'

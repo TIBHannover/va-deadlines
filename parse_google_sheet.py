@@ -136,7 +136,7 @@ def export_to_yml(filepath):
                 "paperslink": None,
                 "pwclink": None,
                 "hindex": None,
-                "CORE": row["CORE23"],
+                "core": row["CORE23"],
                 "sub": subs,
                 "note": None,
             }
